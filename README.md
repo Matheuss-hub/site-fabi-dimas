@@ -9,20 +9,20 @@ index.html
 style.css
 script.js
 media/
-  hero.jpg        (foto principal do topo)
-  perfil.jpg      (foto dela)
-  foto1.jpg ... foto6.jpg   (galeria)
-  video1.mp4 ... video3.mp4 (vídeos)
-  video1-capa.jpg ...       (capa de cada vídeo, opcional)
+  hero.jpg.jpeg
+  perfil.jpg.jpeg
+  foto1.jpg.jpeg ... foto19.jpg.jpeg
+  video1.mp4.mp4
+  video2.mp4.mp4
 ```
 
 ## O que editar
 
-Tudo que muda fica no topo do `script.js` (objeto `CONFIG`): nome, WhatsApp, mensagem, Instagram e endereço.
+Tudo que muda fica no topo do `script.js` (objeto `CONFIG`): nome, WhatsApp, mensagem e Instagram.
 
 ## Dicas de mídia
 
-- Fotos: use .jpg com até ~300 KB cada (comprima em squoosh.app).
+- Mantenha os nomes e as extensões exatamente como listados acima; a página usa esses caminhos.
 - Vídeos: use .mp4 (H.264), vertical, até ~15 MB cada. O GitHub bloqueia arquivos acima de 100 MB.
 - Se os vídeos forem pesados, publique no YouTube/Instagram e use o link/embed.
 
