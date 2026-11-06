@@ -14,6 +14,7 @@ media/
   foto1.jpg.jpeg ... foto19.jpg.jpeg
   video1.mp4.mp4
   video2.mp4.mp4
+  video4.mp4.mp4
 ```
 
 ## O que editar
